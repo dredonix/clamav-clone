@@ -40,9 +40,9 @@
   </properties>
 
   <scm>
-    <connection>scm:git:git://github.com/solita/clamav-rest.git</connection>
-    <developerConnection>scm:git:git@github.com:solita/clamav-rest.git</developerConnection>
-    <url>https://github.com/solita/clamav-rest</url>
+    <connection>scm:git:git://github.com:dredonix/clamav-clone.git</connection>
+    <developerConnection>scm:git:git@github.com:dredonix/clamav-clone.git</developerConnection>
+    <url>https://github.com/dredonix/clamav-clone.git</url>
   </scm>
 
   <dependencies>
