@@ -17,7 +17,7 @@
   <packaging>jar</packaging>
   <name>Simple ClamAV proxy</name>
   <description>Simple REST proxy to put between a client and clamd server. </description>
-  <url>https://github.com/solita/clamav-rest</url>
+  <url>https://github.com/dredonix/clamav-clone</url>
   <licenses>
     <license>
       <name>GNU LESSER GENERAL PUBLIC LICENSE, Version 2.1</name>
@@ -42,7 +42,7 @@
   <scm>
     <connection>scm:git:git://github.com:dredonix/clamav-clone.git</connection>
     <developerConnection>scm:git:git@github.com:dredonix/clamav-clone.git</developerConnection>
-    <url>https://github.com/dredonix/clamav-clone.git</url>
+    <url>https://github.com/dredonix/clamav-clone</url>
   </scm>
 
   <dependencies>
